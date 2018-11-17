@@ -1,5 +1,5 @@
 - Player Click Movement
-- NavMesh implementation
-- Enemy AI
+- NavMesh implementation, different NavMesh models
+- Enemy AI, AI player detection, movement (working?)
 - Credit to NavMesh components from Brackeys youtube tutorials
 - Dominic Soesatyo, GAME-100-0NB
